@@ -43,7 +43,8 @@ I'm that dev who codes with soul — full-stack by trade, artist by nature. Curr
 
 ---
 
-*Let's make the internet a little more beautiful, one line of code at a time* 💫<!--
+*Let's make the internet a little more beautiful, one line of code at a time* 💫
+<!--
 **mokshika17/mokshika17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
